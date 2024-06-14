@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: description Remote sensing and Spatial data science
+description: Remote sensing and Spatial data science
 
 
 profile:
-  align: left
+  align: right
   image: my-pic-01.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
