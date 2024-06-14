@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Remote sensing and Spatial data science
+subtitle: Remote sensing and Spatial data science
 
 
 profile:
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Hossein Torabzadeh, assistant professor in Geomatics lab, [Bu-Ali Sina University](https://www.basu.ac.ir/), Iran. 
+I am assistant professor of remote sensing, assistant professor in Geomatics lab, [Bu-Ali Sina University](https://www.basu.ac.ir/), Iran. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
