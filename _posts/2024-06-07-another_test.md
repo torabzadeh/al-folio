@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-06-06 12:00:00
-title: a test post from Obsidian
+date: 2024-06-07 12:00:00
+title: a test post from vs code
 description: let see!
 tags: new
 categories: test
