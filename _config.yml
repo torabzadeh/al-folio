@@ -99,8 +99,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: > #
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -124,7 +123,7 @@ blog_description: # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
-# Pagination
+# Pagination # means pined posts and they must have featured: true in the frontmatter
 pagination:
   enabled: true
 
